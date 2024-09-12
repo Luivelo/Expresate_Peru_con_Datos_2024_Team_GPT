@@ -1,2 +1,2 @@
-# Expresate Peru con Datos 2024 Team GPT
-Solución analítica abordando el ODS_4: Educación de calidad
+# Proyecto Storytelling data BCRP
+En el presente trabajo se hará un análisis profundo e informado de la data del BCRP usando técnicas de storytelling.
